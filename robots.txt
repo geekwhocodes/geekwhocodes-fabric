@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://geekwhocodes.me/sitemap.xml
+Disallow: /ghost/
